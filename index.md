@@ -1,96 +1,160 @@
 ---
+
 layout: default
+title: Devesh Tiwari | AI & Full‑Stack Developer
+------------------------------------------------
+
+# 👋 Hi, I'm Devesh Tiwari
+
+AI Enthusiast • Full‑Stack Developer • Machine Learning Learner
+
+I’m passionate about building **real‑world AI systems**, scalable full‑stack apps, and experimenting with cutting‑edge technologies like Generative AI, Computer Vision, and Deep Learning. Currently focused on mastering AI/ML while building impactful projects.
+
+[View My Projects](./another-page.html)
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 🚀 About Me
 
-[Link to another page](./another-page.html).
+I am a developer who enjoys combining **software engineering + artificial intelligence** to solve meaningful problems. My current journey includes:
 
-There should be whitespace between paragraphs.
+* Building GenAI-powered applications
+* Exploring Deep Learning & TensorFlow
+* Practicing ML through Kaggle datasets
+* Learning Information Security concepts
+* Preparing for real-world Data Engineering and AI roles
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## 🧠 Skills & Technologies
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 👨‍💻 Programming
 
-## Header 2
+* Java
+* JavaScript
+* Python
+* SQL
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### ⚙️ Frameworks & Tools
 
-### Header 3
+* MERN Stack (MongoDB, Express, React, Node.js)
+* TensorFlow & MediaPipe
+* OpenCV
+* Git & GitHub
+* Stream API Integration
+
+### 🤖 AI & Machine Learning
+
+* Computer Vision
+* Object Detection
+* Sign Language Recognition
+* Generative AI Systems
+* Bias Detection APIs
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Streamify – Language Learning Platform
+
+A full‑stack web app featuring:
+
+* Real‑time chat
+* Video calling
+* Friend recommendations
+* Authentication & onboarding
+* Stream API integration
+
+---
+
+### 🧾 GenAI Document Query System
+
+A MERN + Python system that allows users to ask natural language questions against unstructured documents such as policies and reports.
+
+---
+
+### ✋ Sign Language Recognition
+
+Real‑time webcam-based gesture recognition using:
+
+* TensorFlow 2.x
+* MediaPipe
+* OpenCV
+* Custom trained models
+
+---
+
+### ⚖️ Bias Detection API (SAP Hackfest)
+
+Designed a business-focused API to detect bias in decision-making pipelines using AI techniques.
+
+---
+
+## 💡 My Learning Goals
+
+> "When something is important enough, you do it even if the odds are not in your favor."
+
+* Master Machine Learning & Deep Learning
+* Become a strong AI Engineer
+* Improve system design & scalability skills
+* Build production-level AI products
+
+---
+
+## 📊 Example Code Snippet (JavaScript)
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+// Functional style example
+const processLanguage = (lang) => {
+  const module = require('./lang/' + lang);
+  return module ? true : false;
+};
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```java
+// Java Functional Interface Example
+Function<Integer, Integer> square = x -> x * x;
+System.out.println(square.apply(5));
 ```
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 📚 Current Focus Areas
 
-##### Header 5
+* Machine Learning Roadmap
+* Information Security Concepts
+* System Architecture Design
+* Real-time AI Applications
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## 🏆 Highlights
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Area             | Focus Level | Notes                                |
+| :--------------- | :---------- | :----------------------------------- |
+| AI/ML            | High        | Deep learning & CV projects          |
+| Full‑Stack Dev   | High        | MERN apps & real-time systems        |
+| Java             | Strong      | Functional programming & collections |
+| Data Engineering | Growing     | Exploring job market skills          |
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## 🧩 Interests
 
-### Here is an unordered list:
+* Building AI-powered tools
+* Solving challenging engineering problems
+* Learning advanced system design
+* Gaming (Elden Ring ⚔️)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## 📬 Connect With Me
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* GitHub Projects
+* AI Research & Experiments
+* Full‑Stack Development
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+---
 
 ### Small image
 
@@ -100,22 +164,14 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+---
 
-### Definition lists can be used with HTML syntax.
+### Additional Notes
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long.
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+This is a long single-line example showing how code behaves inside GitHub Pages layouts without wrapping issues across the screen which helps maintain readability.
 ```
 
 ```
